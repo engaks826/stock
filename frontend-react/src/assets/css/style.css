@@ -4,7 +4,7 @@ body{
 .bg-light-dark{
     background-color: #2B3035;
 }
-#rout{
+#root{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
